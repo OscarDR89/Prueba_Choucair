@@ -1,16 +1,16 @@
-Questions/Answer.java
- Questions.Answer
+UserInterface/ChoucairAcademyPage.java
+ UserInterface.ChoucairAcademyPage
 UserInterface/SearchCoursePage.java
  UserInterface.SearchCoursePage
 Tasks/Login.java
  Tasks.Login
-Tasks/Search.java
- Tasks.Search
+UserInterface/ChoucairLoginPage.java
+ UserInterface.ChoucairLoginPage
 Model/AcademyChoucairData.java
  Model.AcademyChoucairData
 Tasks/Openup.java
  Tasks.Openup
-UserInterface/ChoucairLoginPage.java
- UserInterface.ChoucairLoginPage
-UserInterface/ChoucairAcademyPage.java
- UserInterface.ChoucairAcademyPage
+Questions/Answer.java
+ Questions.Answer
+Tasks/Search.java
+ Tasks.Search
