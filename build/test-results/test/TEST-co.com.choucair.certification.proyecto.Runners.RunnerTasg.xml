@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="co.com.choucair.certification.proyecto.Runners.RunnerTasg" tests="1" skipped="0" failures="1" errors="0" timestamp="2021-03-31T01:56:57" hostname="ESCRITORIO89" time="0.026">
+<testsuite name="co.com.choucair.certification.proyecto.Runners.RunnerTasg" tests="1" skipped="0" failures="1" errors="0" timestamp="2021-03-31T02:04:45" hostname="ESCRITORIO89" time="0.006">
   <properties/>
-  <testcase name="initializationError" classname="co.com.choucair.certification.proyecto.Runners.RunnerTasg" time="0.026">
+  <testcase name="initializationError" classname="co.com.choucair.certification.proyecto.Runners.RunnerTasg" time="0.006">
     <failure message="cucumber.runtime.CucumberException: gherkin.ParserException$CompositeParserException: Parser errors:&#10;(22:5): expected: #EOF, #TableRow, #StepLine, #TagLine, #ScenarioLine, #ScenarioOutlineLine, #Comment, #Empty, got 'Example:'&#10;(23:5): inconsistent cell count within the table" type="cucumber.runtime.CucumberException">cucumber.runtime.CucumberException: gherkin.ParserException$CompositeParserException: Parser errors:
 (22:5): expected: #EOF, #TableRow, #StepLine, #TagLine, #ScenarioLine, #ScenarioOutlineLine, #Comment, #Empty, got 'Example:'
 (23:5): inconsistent cell count within the table
